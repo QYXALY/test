@@ -1,0 +1,15 @@
+D:\Desktop\软件构造作业\assignment1\project1\bin\Debug\net6.0\project1.exe
+D:\Desktop\软件构造作业\assignment1\project1\bin\Debug\net6.0\project1.deps.json
+D:\Desktop\软件构造作业\assignment1\project1\bin\Debug\net6.0\project1.runtimeconfig.json
+D:\Desktop\软件构造作业\assignment1\project1\bin\Debug\net6.0\project1.dll
+D:\Desktop\软件构造作业\assignment1\project1\bin\Debug\net6.0\project1.pdb
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.csproj.AssemblyReference.cache
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.AssemblyInfoInputs.cache
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.AssemblyInfo.cs
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.csproj.CoreCompileInputs.cache
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.dll
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\refint\project1.dll
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.pdb
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\project1.genruntimeconfig.cache
+D:\Desktop\软件构造作业\assignment1\project1\obj\Debug\net6.0\ref\project1.dll

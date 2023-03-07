@@ -1,0 +1,15 @@
+D:\Desktop\软件构造作业\assignment1\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Desktop\软件构造作业\assignment1\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Desktop\软件构造作业\assignment1\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Desktop\软件构造作业\assignment1\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Desktop\软件构造作业\assignment1\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Desktop\软件构造作业\assignment1\Calculator\obj\Debug\net6.0\ref\Calculator.dll
